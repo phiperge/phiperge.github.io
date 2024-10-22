@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://phiperge.github.io/phiperge.phiperge
+Sitemap: https://phiperge.github.io/app/phiperge.phiperge
+Sitemap: https://phiperge.github.io/assets/phiperge.phiperge
+Sitemap: https://phiperge.github.io/css/phiperge.phiperge
+Sitemap: https://phiperge.github.io/includes/phiperge.phiperge
+Sitemap: https://phiperge.github.io/item/phiperge.phiperge
+Sitemap: https://phiperge.github.io/src/phiperge.phiperge
